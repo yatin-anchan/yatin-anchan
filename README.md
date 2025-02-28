@@ -125,7 +125,13 @@
 
 ---
 
-<!-- Fun GIF -->
+---
+
+<!-- Fun Closing Animation -->
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
+  <br>
+  <b>Thanks for visiting my profile! 🚀</b>
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=7b68ee&center=true&width=500&lines=Happy+Coding!+✨;Keep+Exploring!+🚀;Let's+Build+Something+Great!+💡" />
 </p>

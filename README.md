@@ -45,9 +45,9 @@
 <table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50" /><br><b>Python</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="50" /><br><b>Django</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="50" /><br><b>Django<br>(Learning)</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="50" /><br><b>C++</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50" /><br><b>Node.js</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50" /><br><b>Node.js<br>(Learning)</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="50" /><br><b>PyTorch</b></td>
   </tr>
   <tr>

@@ -62,8 +62,10 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="50" /><br><b>HTML</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50" /><br><b>CSS</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50" /><br><b>JavaScript</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50" /><br><b>MySQL</b></td>
   </tr>
 </table>
+<br>
 
 ---
 <!-- 📊 GitHub Stats -->

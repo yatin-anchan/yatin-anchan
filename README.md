@@ -26,10 +26,11 @@
 <!-- 🚀 About Me -->
 <h2 align="center">🚀 About Me</h2>
 <hr style="width:60%;text-align:center;margin:auto;">  
-👨‍💻 **I am a passionate AI & ML Developer**, always exploring new technologies and building innovative solutions!  
-🌍 I love working with **AI, Machine Learning, and Geospatial Tech** to solve real-world problems.  
-📈 Currently **improving my skills in Deep Learning & LLMs** (Large Language Models).  
-🎮 Fun Fact: I'm a tech geek who also enjoys **gaming & space science! 🚀🌌**  
+👨‍💻 <b>I am a passionate AI & ML Developer</b>, always exploring new technologies and building innovative solutions!  
+
+🌍 I love working with <b>AI, Machine Learning, and Geospatial Tech</b> to solve real-world problems.  
+📈 Currently <b>improving my skills in Deep Learning & LLMs</b> (Large Language Models).  
+🎮 Fun Fact: I'm a tech geek who also enjoys <b>gaming & space science! 🚀🌌</b>
 
 ---
 

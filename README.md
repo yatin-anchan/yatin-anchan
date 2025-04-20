@@ -1,6 +1,6 @@
-<!-- 🔹 Gradient Banner with Wave Effect -->
+<!-- 🔹 Gradient Banne with Wave Effect -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D63FF,100:9400D3&height=200&section=header&text=Hi,+I'm+Yatin+Anchan!+👋&fontSize=35&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D63FF,100:9400D3&height=200&section=header&text=Hi,+I'm+Yatin+Anil+Anchan!+👋&fontSize=35&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
 </p>
 
 <!-- 🔹 Inspiring Quote (Typing Animation) -->
